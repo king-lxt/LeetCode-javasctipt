@@ -6,3 +6,7 @@
 [2、实现 strStr()](https://github.com/king-lxt/LeetCode-javasctipt/issues/2 )
 
 [3、最长公共前缀](https://github.com/king-lxt/LeetCode-javasctipt/issues/3 )
+
+## 链表
+
+[1、删除链表中的节点](https://github.com/king-lxt/LeetCode-javasctipt/issues/4)
