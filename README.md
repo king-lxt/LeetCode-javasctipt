@@ -2,7 +2,7 @@
 
 ## 数组
 
-[1、两个数组的交集](https://github.com/king-lxt/LeetCode-javasctipt/issues/4)
+[1、两个数组的交集](https://github.com/king-lxt/LeetCode-javasctipt/issues/5)
 
 [2、只出现一次的数字](https://github.com/king-lxt/LeetCode-javasctipt/issues/6)
 
