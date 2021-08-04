@@ -1,4 +1,9 @@
 # LeetCode-javasctipt
+
+##数组
+
+[1、两个数组的交集](https://github.com/king-lxt/LeetCode-javasctipt/issues/5)
+
 ## 字符串
 
 [1、字符串转(atio)](https://github.com/king-lxt/LeetCode-javasctipt/issues/1 )
