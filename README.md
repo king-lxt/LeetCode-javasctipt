@@ -1,8 +1,10 @@
 # LeetCode-javasctipt
 
-##数组
+## 数组
 
-[1、两个数组的交集](https://github.com/king-lxt/LeetCode-javasctipt/issues/5)
+[1、两个数组的交集](https://github.com/king-lxt/LeetCode-javasctipt/issues/4)
+
+[2、只出现一次的数字](https://github.com/king-lxt/LeetCode-javasctipt/issues/6)
 
 ## 字符串
 
